@@ -17,8 +17,8 @@ public class Main {
         System.out.println("\n");
 
         System.out.println("*********************************\n" +
-                "|        MCLEAN STORE           |\n" +
-                "|   04/29/2022    \" 02:45pm\"     |\n" +
+                "|\t\t  MCLEAN STORE          |\n" +
+                "|   04/29/2022    \" 02:45pm\"    |\n" +
                 "|   Gallons:      \" 11.48 \"     |\n" +
                 "|   Price/gallon: \" $4.15 \"     |\n" +
                 "|   Fuel total:   \" $47.642\"    |\n" +
