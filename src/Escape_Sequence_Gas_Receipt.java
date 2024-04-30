@@ -1,6 +1,4 @@
-import java.sql.SQLOutput;
-
-public class Main {
+public class Escape_Sequence_Gas_Receipt {
 
 
     public static void main(String[] args) {
